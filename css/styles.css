@@ -1,0 +1,48 @@
+#Banner{
+  width: 100%;
+  height: 400px;
+  background: url('../images/cookie-01.jpg') no-repeat;
+       }
+
+.faenvelope-o{
+  color rbg(224, 18, 105);
+             }
+
+header{
+  overflow:hidden;
+      }
+
+#Logo{
+  width: 200px;
+  height: 120px;
+  background: url('../images/ysc-logo02.png') no-repeat;
+  float: left;
+     }
+
+nav>ol>li{
+  weight: 120px;
+  height: 40px;
+  float:left;
+  font-size: 20px;
+  font-family: "微軟黑正體";
+        }
+
+#document{
+  max-width: 1000px;
+  margin: auto;
+         }
+
+nav{
+  float: right;
+  margin-top: 80px;
+   }
+
+.left{
+  width: 500px;
+  float:left;
+     }
+
+.right{
+ width: 500px;
+ float:left;
+     }
